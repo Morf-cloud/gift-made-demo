@@ -1,0 +1,23 @@
+
+  <section id="mines" class="page">
+    <h2>⭐ Treasure Hunt</h2>
+    <p>Знаходь скарби на полі 5×5!</p>
+    <div id="board"></div>
+    <button id="reset" class="main-btn">НОВА ГРА</button>
+    <p id="gameResult" class="result"></p>
+  </section>
+
+  <section id="gifts" class="page">
+    <h2>🎁 My Gifts</h2>
+    <div class="inventory">
+      <div>👜<p>Luxury Bag</p></div>
+      <div>💎<p>Diamond</p></div>
+      <div>🚀<p>Rocket</p></div>
+      <div>👑<p>Crown</p></div>
+      <div>🎁<p>Mystery Gift</p></div>
+      <div>⭐<p>Golden Star</p></div>
+    </div>
+  </section>
+
+  <footer>GIFT MADE DEMO BOT · DEMO VERSION</footer>
+</div>
